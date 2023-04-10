@@ -1,0 +1,17 @@
+{
+  "name": "cephelon-pres",
+  "version": "1.0.0",
+  "description": "TBD",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Kal Chokanov",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "typescript": "^5.0.3"
+  },
+  "dependencies": {
+    "winston": "^3.8.2"
+  }
+}
